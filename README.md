@@ -3,11 +3,11 @@
 
 A web-based simulator that visualizes disk scheduling algorithms like FCFS, SSTF, SCAN, C-SCAN, LOOK, and C-LOOK using HTML5 Canvas and Plotly. Includes animated head movement, voice narration, and PDF export functionality.
 
-## 🔧 Features
-- Algorithm animation using HTML5 Canvas
-- Voice-over explanation using Web Speech API
-- Performance graphs using Plotly.js
-- PDF export with jsPDF
+**Disk Head Animation**: Simulates head movement for different algorithms.
+- **Algorithm Support**: FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK.
+- **Voice Narration**: Speaks out algorithm steps in real-time.
+- **Performance Charts**: Plots seek time and total head movement.
+- **PDF Export**: Export results and comparisons using jsPDF.
 
 ## Technologies Used
 - HTML, CSS, JavaScript
@@ -15,4 +15,10 @@ A web-based simulator that visualizes disk scheduling algorithms like FCFS, SSTF
 - Web Speech API
 
 ## How to Run
-Open `index.html` in a browser (no server required).
+1. Clone or download the repo:
+      git clone https://github.com/yourusername/Disk-Scheduling-Visualizer
+2. Open index.html in your browser
+    No server or build tools needed.
+
+ ## Live Demo
+   🔗 https://PavanTeja201107.github.io/Disk-Scheduling-Visualizer/
