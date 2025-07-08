@@ -16,6 +16,6 @@ A web-based simulator that visualizes disk scheduling algorithms like FCFS, SSTF
 
 ## How to Run
 1. Clone or download the repo:
-      git clone https://github.com/PavanTeja201107/Disk-Scheduling-Visualizer
+      git clone https://github.com/PavanTeja201107/Disk-Scheduling-Algorithm-Visualizer
 2. Open index.html in your browser
     No server or build tools needed.
